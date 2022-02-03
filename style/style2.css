@@ -1,0 +1,55 @@
+html{
+    font-family: 'Hammersmith One', sans-serif;
+  }
+
+h1{
+    padding-top:  100px;
+    display: block;
+    padding-left: 10%;
+}
+
+.border{
+    border-radius: 25px;
+}
+
+.aff{
+    padding-left: 10%;
+    margin: 1%;
+    display: block;
+}
+
+#tableau{
+    display: none;
+}
+
+#grille{
+    display: block;
+}
+
+.table{
+
+    padding-right: 1%;
+}
+
+#grille img{
+    border-radius: 25px;
+
+}
+
+.d2{
+    font-size: 7mm;
+}
+
+.txt{
+    text-align: center;
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+
+.button{
+    text-align: center;
+}
+
+.titre{
+    width: 40%;
+}

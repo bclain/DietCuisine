@@ -1,0 +1,64 @@
+html{
+    font-family: 'Hammersmith One', sans-serif;
+  }
+
+h1{
+    padding-top:  100px;
+    display: block;
+    padding-left: 10%;
+}
+
+p{
+    padding-left: 10%;
+}
+
+.border{
+    border-radius: 25px;
+}
+
+.cher{
+    margin: 3%;
+}
+
+.cher input{
+    width: 300px;
+    height: 60px;
+    border-radius: 10px 0px 0px 10px;
+    font-size: large;
+    border-color: coral;
+}
+
+.cher button{
+    width: 60px;
+    height: 60px;
+    border-radius: 0px 10px 10px 0px;
+    background-color: coral;
+    border: none;
+}
+
+#grille{
+    display: block;
+}
+
+#grille img{
+    border-radius: 25px;
+
+}
+
+.d2{
+    font-size: 7mm;
+}
+
+.txt{
+    text-align: center;
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+
+.button{
+    text-align: center;
+}
+
+.titre{
+    width: 40%;
+}
